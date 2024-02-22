@@ -1,3 +1,8 @@
+import allure
+
+
+@allure.title("Generic Test")
+@allure.description("This is a generic allure description")
 def test_generic_success() -> None:
     success: bool = True
     assert success
