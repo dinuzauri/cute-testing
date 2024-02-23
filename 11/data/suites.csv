@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Feb 23 09:20:57 GMT 2024","Fri Feb 23 09:20:57 GMT 2024","0","tests","test_generic","","","","Generic Test","This is a generic allure description"
+"passed","Fri Feb 23 09:20:57 GMT 2024","Fri Feb 23 09:20:57 GMT 2024","1","tests","test_generic","","","","test_generic_success_with_fixture",""
+"failed","Fri Feb 23 09:20:57 GMT 2024","Fri Feb 23 09:20:57 GMT 2024","0","tests","test_generic","","","","test_generic_fail",""
