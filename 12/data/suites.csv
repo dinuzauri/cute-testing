@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Fri Feb 23 12:01:41 GMT 2024","Fri Feb 23 12:01:41 GMT 2024","0","tests","test_generic","","","","test_generic_fail",""
+"passed","Fri Feb 23 12:01:41 GMT 2024","Fri Feb 23 12:01:41 GMT 2024","0","tests","test_generic","","","","Generic Test","This is a generic allure description"
+"passed","Fri Feb 23 12:01:43 GMT 2024","Fri Feb 23 12:01:44 GMT 2024","415","tests","test_web","","","","test_get_started_link[chromium]",""
+"passed","Fri Feb 23 12:01:43 GMT 2024","Fri Feb 23 12:01:43 GMT 2024","562","tests","test_web","","","","test_has_title[chromium]",""
+"passed","Fri Feb 23 12:01:41 GMT 2024","Fri Feb 23 12:01:41 GMT 2024","0","tests","test_generic","","","","test_generic_success_with_fixture",""
